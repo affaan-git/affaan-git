@@ -5,8 +5,10 @@
 I build scalable, full-stack applications across architectures. - From cloud-integrated backend infrastructure to clean, responsive front-ends.
 
 - Skilled in agile collaboration, automation, and adapting under high-stress timelines
-- Always solving real-world problems through code, creativity, and cross-team collaboration
+- Solving real-world problems through code, creativity, and cross-team collaboration
 
+**Portfolio:** [:globe_with_meridians: Visit Website](https://affaanm.com) &nbsp;&nbsp;|&nbsp;&nbsp; [:computer: View Code](https://github.com/affaan-git/portfolio)  
+**LinkedIn:** [:link: Connect with me](https://linkedin.com/in/affaanm)
 
 ## :brain: Languages & Frameworks
 
@@ -78,3 +80,5 @@ I build scalable, full-stack applications across architectures. - From cloud-int
     <td>CompTIA A+</td>
   </tr>
 </table>
+<br>
+*"Upgrade Today's Hardware, with Tomorrow's Software."*
