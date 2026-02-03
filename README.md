@@ -4,7 +4,7 @@
 
 Designing and building tested, full-stack applications across architectures.
 
-<div style="desiplay: flex; gap: 28px; flex-wrap: wrap;">
+<div style="display: flex; gap: 28px; flex-wrap: wrap;">
   <div style="min-width: 320px;">
     <h3>🧠 Languages & Frameworks</h3>
     <table>
