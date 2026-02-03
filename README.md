@@ -4,10 +4,10 @@
 
 Designing and building tested, full-stack applications across architectures.
 
-<div style="display: flex; gap: 28px; flex-wrap: wrap;">
-  <div style="min-width: 320px;">
+<div style="display: flex; gap: 24px; flex-wrap: wrap; align-items: flex-start;">
+  <div style="flex:1 1 360px; min-width: 300px;">
     <h3>🧠 Languages & Frameworks</h3>
-    <table>
+    <table style="width: 100%;">
       <tr>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python</td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Java</td>
@@ -23,9 +23,9 @@ Designing and building tested, full-stack applications across architectures.
     </table>
   </div>
 
-  <div style="min-width: 320px;">
+  <div style="flex:1 1 360px; min-width: 300px;">
     <h3>🛠️ Tools & Platforms</h3>
-    <table>
+    <table style="width: 100%;">
       <tr>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24"/> Docker</td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="24"/> AWS</td>
