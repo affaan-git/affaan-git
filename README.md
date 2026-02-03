@@ -81,4 +81,5 @@ I build scalable, full-stack applications across architectures. - From cloud-int
   </tr>
 </table>
 <br>
+
 *"Upgrade Today's Hardware, with Tomorrow's Software."*
